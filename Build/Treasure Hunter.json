@@ -1,0 +1,17 @@
+{
+"companyName": "Mountain Pine Studio",
+"productName": "Treasure Hunters",
+"productVersion": "alpha.3",
+"dataUrl": "Treasure Hunter.data.unityweb",
+"wasmCodeUrl": "Treasure Hunter.wasm.code.unityweb",
+"wasmFrameworkUrl": "Treasure Hunter.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Treasure Hunter.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
